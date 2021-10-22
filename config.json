@@ -1,0 +1,19 @@
+{
+  "embedColor": "#de3c51",
+  "guildId": "747526604116459691",
+  "messages": {
+    "newMember": {
+      "unkownInvite": "New member, **{member.username}**! I couldn't figure out who invited them",
+      "inviter": "New member, **{member.username}**! Invited by {inviter.username} ({inviter.totalInvites} invites"
+    },
+    "memberLeave": {
+      "unkownInvite": "Member left, **{member.username}**. I couldn't figure out who invited them",
+      "inviter": "Member left, **{member.username}**. Invited by {inviter.username} ({inviter.totalInvites} invites"
+    },
+    "cmdInvites": {
+      "otherInvites": "**{member.username}** has **${member.invites}** invites!",
+      "ownInvites": "You have **{member.invites}** invites!"
+    }
+  },
+  "allWelcomeChannels": ["welcome","hi","hello","traffic", "new-members"]
+}
