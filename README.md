@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Invite Manager</h1>
+    <h1>Mxtorie Logger</h1>
 </div>
 
 ----
@@ -14,8 +14,8 @@
 - You need to install @keyv/<type> | [Keyv](https://www.npmjs.com/package/keyv)
 
 ### Support
- - https://gcommands.js.org
- - https://discord.gg/AjKJSBbGm2
+ - https://betterguard.site/discord
+ - https://discord.gg/vsqDgmHw
 
 ### Requirements
  - Node `12.x+`
